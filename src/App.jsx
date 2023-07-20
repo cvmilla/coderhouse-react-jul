@@ -3,8 +3,8 @@ import './App.css';
 import './components/NavBar'
 
 function App() {
-  return (
-    <div className="App">
+  return (    
+    <div className="App">    
       <header className="App-header">
         <nav>
             <div class="logo">
