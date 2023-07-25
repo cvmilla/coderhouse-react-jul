@@ -1,5 +1,6 @@
 import './NavBar.css';
-import logo from './logo-books.png';
+import logo from '../assets/logo-books.png';
+import CartWidget from './CartWidget';
 
 function NavBar() {
     return(
@@ -15,11 +16,10 @@ function NavBar() {
             <li><a href="#">Serviços</a></li>
             <li><a href="#">Estoque</a></li>
             <li><a href="#">Contato</a></li>
+            <li>{CartWidget}</li>
+            
         </ul>
-        <div class="search">
-            <input type="text" placeholder="Pesquisar..."/>
-            <button type="button">Buscar</button>
-        </div>
+            
     </nav> 
     )
 }
