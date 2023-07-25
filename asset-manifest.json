@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/coderhouse-react-jul/static/css/main.ca243f6d.css",
-    "main.js": "/coderhouse-react-jul/static/js/main.745bad68.js",
+    "main.css": "/coderhouse-react-jul/static/css/main.dbf57541.css",
+    "main.js": "/coderhouse-react-jul/static/js/main.7faefd75.js",
     "static/js/787.3df86b36.chunk.js": "/coderhouse-react-jul/static/js/787.3df86b36.chunk.js",
     "static/media/logo-books.png": "/coderhouse-react-jul/static/media/logo-books.c93df431d5d67a9b0d23.png",
     "index.html": "/coderhouse-react-jul/index.html",
-    "main.ca243f6d.css.map": "/coderhouse-react-jul/static/css/main.ca243f6d.css.map",
-    "main.745bad68.js.map": "/coderhouse-react-jul/static/js/main.745bad68.js.map",
+    "main.dbf57541.css.map": "/coderhouse-react-jul/static/css/main.dbf57541.css.map",
+    "main.7faefd75.js.map": "/coderhouse-react-jul/static/js/main.7faefd75.js.map",
     "787.3df86b36.chunk.js.map": "/coderhouse-react-jul/static/js/787.3df86b36.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca243f6d.css",
-    "static/js/main.745bad68.js"
+    "static/css/main.dbf57541.css",
+    "static/js/main.7faefd75.js"
   ]
 }
