@@ -1,8 +1,11 @@
+import ItemCount from "../components/ItemCount";
+
 function ItemListContainer () {
     return (
         <>
-        <h1>Livraria Coder</h1>
-        </>
+        {ItemCount}
+        </>        
+              
     )
 }
 
