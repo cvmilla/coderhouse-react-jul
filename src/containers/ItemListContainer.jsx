@@ -1,11 +1,8 @@
-import ItemCount from "../components/ItemCount";
+import Counters from "../components/Counters";
 
 function ItemListContainer () {
-    return (
-        <>
-        {ItemCount}
-        </>        
-              
+    return (        
+        <Counters />    
     )
 }
 
